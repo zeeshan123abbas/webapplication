@@ -1,0 +1,132 @@
+.bg{
+    background-color: black !important;
+}
+a{
+    /* height: 20px; */
+    color: red !important;
+    font-size: 20px;
+    /* transition: all 1s ease; */
+    margin: 2px;
+}
+a:hover{
+    
+    color:white !important;
+    text-shadow: 1px 1px 1px red;
+
+}
+/* .ub{
+    box-shadow: 1px 1px 2px 2px gray;
+} */
+.ts{
+    /* box-shadow: 1px 1px 1px 2px yellow; */
+    padding: 40px;
+}
+.tx{
+    margin-bottom: 10px;
+    color: black;
+    text-shadow: 2px 2px 2px rgba(255, 2, 2, 0.459);
+    font-size: 45px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.ah{
+    color: red!important;
+    text-shadow: 1px 1px 1px white;
+    font-size:30px;
+    transition: all 1s ease;
+}
+.ah:hover{
+color: white !important;
+text-shadow: 1px 1px 1px red;
+}
+.mf{
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    margin-top: 80px;
+    margin-left: 50px;
+    font-size: 25px;
+    text-shadow: 1px 1px 1px red;
+    font-weight: bold;
+}
+.btn{
+    margin-left: 50px;
+    background-color: black !important;
+    color: white !important;
+    border: 1px solid red;
+    transition: all 1s ease;
+}
+.btn:hover{
+    background-color: whitesmoke !important;
+    color: red !important;
+    border: none;
+
+}
+/* ------------Story---------- */
+.pp-1{
+    padding: 100px;
+    /* border: 1px solid red; */
+    /* box-shadow: 1px 2px 3px 2px gray; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.up{
+  transition: all 1s ease;
+}
+.up:hover{
+    transform: translateY(-4px);
+}
+/* .rt-1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+} */
+.st{
+    font-weight: bold;
+    text-transform: uppercase;
+    color: white;
+    text-shadow: 1px 1px 1px red;
+    letter-spacing : 8px;
+}
+.cg-1{
+    background-color: black;
+    color: white;
+    box-shadow: 1px 1px 1px 1px gray;
+}
+.cg{
+    height: 170px !important;
+    border: 1px solid white;
+}
+.bt-1{
+    background-color: red !important;
+    border-color: cornflowerblue;
+    text-transform: uppercase;
+    margin-right: 20px;
+}
+.tx-1{
+    text-transform: capitalize !important;
+    text-shadow: 1px 1px 1px red;
+    letter-spacing: 2px;
+}
+/* .at{
+    margin-left: 20px;
+} */
+/* footer */
+.cft{
+    /* border: 1px solid red; */
+    box-shadow: 1px 2px 1px 2px gray;
+}
+.fxt{
+    color: whitesmoke;
+    font-size: 20px;
+    padding: 30px;
+}
+li{
+    color: red;
+}
+.clg-1{
+    /* box-shadow: 1px 2px 4px gray; */
+}
